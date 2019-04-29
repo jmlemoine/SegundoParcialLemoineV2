@@ -4,7 +4,7 @@
     <div class="row">
         <div class="col-6 p-4 mt-4 mx-auto">
             <div class="form-group">
-                <label><strong>Nombre: </strong></label>
+                <label><strong>Nombre:</strong></label>
                 <input class="form-control" type="text" id="nombre" required=""/>
             </div>
             <div class="form-group">
