@@ -44,7 +44,7 @@
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul class="navbar-nav ml-auto">
                                 <li class="nav-item">
-                                    <a href="/agregarRegistro" class="btn btn-light"><i class="fas fa-plus-circle"></i> Agregar</a>
+                                    <a href="/agregarRegistro" class="btn btn-light"><i class="fas fa-plus-circle"></i> Agregar </a>
                                 </li>
                                 &nbsp;&nbsp;
                                 <li class="nav-item">
