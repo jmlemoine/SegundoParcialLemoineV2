@@ -12,7 +12,7 @@
                 <input class="form-control" type="text" id="sector" required=""/>
             </div>
             <div class="form-group">
-                <label><strong>Nivel escolar:</strong></label>
+                <label><strong>Nivel Escolar: </strong></label>
                 <select class="form-control" id="nivelEscolar">
                     <option value="Básico">Básico</option>
                     <option value="Medio">Medio</option>
