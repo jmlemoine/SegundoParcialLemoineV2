@@ -48,7 +48,7 @@
                                 </li>
                                 &nbsp;&nbsp;
                                 <li class="nav-item">
-                                    <a href="/mapa" class="btn btn-light"><i class="fas fa-map-marked"></i> Ver Mapa</a>
+                                    <a href="/mapa" class="btn btn-light"><i class="fas fa-map-marked"></i> Ver Mapa </a>
                                 </li>
                                 &nbsp;&nbsp;
                                 <li class="nav-item">
