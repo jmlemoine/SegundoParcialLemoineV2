@@ -8,7 +8,7 @@
                 <input class="form-control" type="text" id="nombre" required=""/>
             </div>
             <div class="form-group">
-                <label><strong>Sector:</strong></label>
+                <label><strong>Sector: </strong></label>
                 <input class="form-control" type="text" id="sector" required=""/>
             </div>
             <div class="form-group">
