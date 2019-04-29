@@ -35,7 +35,7 @@
             <div class="row">
                 <div class="col-12 p-0">
                     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-                        <a class="navbar-brand" href="/"><i class="fas fa-map-marked"></i> Segundo parcial - Jean Melvin Lemoine</a>
+                        <a class="navbar-brand" href="/"><i class="fas fa-map-marked"></i> Segundo Parcial - Jean Melvin Lemoine</a>
                         <button class="navbar-toggler" type="button" data-toggle="collapse"
                                 data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                                 aria-expanded="false" aria-label="Toggle navigation">
