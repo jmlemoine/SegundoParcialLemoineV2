@@ -52,7 +52,7 @@
                                 </li>
                                 &nbsp;&nbsp;
                                 <li class="nav-item">
-                                    <button id="sincronizar" class="btn btn-light"><i class="fas fa-map-marker-alt"></i> Introducir al mapa</button>
+                                    <button id="sincronizar" class="btn btn-light"><i class="fas fa-map-marker-alt"></i> Introducir al Mapa</button>
                                 </li>
 
                             </ul>
